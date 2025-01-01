@@ -1,2 +1,21 @@
-# role: flaskapp
-# dependencies: []
+galaxy_info:
+  author: idror
+  description: A role to deploy a Flask application
+  company: Your Company
+  license: MIT
+  min_ansible_version: 2.9
+  role_name: flaskapp
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+    - name: Ubuntu
+      versions:
+        - bionic
+        - focal
+  categories:
+    - system
+    - cloud
+
+dependencies: []
