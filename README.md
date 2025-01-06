@@ -16,7 +16,7 @@ A role to deploy a Flask application.
 
 None.
 
-## Example Playbook
+## Example Playbookk
 
 ```yaml
 - hosts: all
