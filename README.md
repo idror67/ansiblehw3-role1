@@ -22,4 +22,4 @@ None.
 - hosts: all
   become: yes
   roles:
-    - flaskapp 
+    - flaskapp  
